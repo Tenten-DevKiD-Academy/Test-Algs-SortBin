@@ -1,5 +1,5 @@
 # Test-Algs-SortBin
 
-Write the Binary Search at the userspace.py code and run then with on click the test.py. If you get all correct you have it right.
+Write the binary search in the userspace.py code and then run it by clicking test.py. If you do everything right, you have it right.
 
-Homework-Tester-Class: 23985
+> Homework-Tester-Class: **23985**
